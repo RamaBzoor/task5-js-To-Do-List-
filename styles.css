@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.task-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.task-item {
+    margin-bottom: 10px;
+}
+
+.checkbox {
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.add-button {
+    color: #008000; 
+    cursor: pointer;
+}
+
